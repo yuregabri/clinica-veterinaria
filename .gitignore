@@ -1,0 +1,23 @@
+# Arquivos compilados
+*.class
+out/
+target/
+bin/
+
+# Arquivos de IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+# Arquivos compilados
+*.class
+out/
+target/
+bin/
+
+# IDs de IDE
+.idea/
+*.iml
+.vscode/
