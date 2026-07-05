@@ -128,4 +128,9 @@ src/com/clinica/
 
 ---
 
-Desenvolvido por [yuregabri](https://github.com/yuregabri)
+## Integrantes
+
+- **Yure Gabriel Alves Cruz** - [yuregabri](https://github.com/yuregabri)
+- **Lidia Emanuela Barros**
+- **Breno Henrique**
+- **Gabriel Lucas Almeida**
